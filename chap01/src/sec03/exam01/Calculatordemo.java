@@ -15,7 +15,7 @@ public class Calculatordemo {
 		// TODO Auto-generated method stub
 		Calculator1.sum(1, 2);
 		Calculator1.avg(10, 20);
-		
+		  
 	}
 
 }
