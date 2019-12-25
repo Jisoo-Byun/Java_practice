@@ -11,6 +11,11 @@ class A {
 		return z();
 	}
 }
+abstract class B{
+	public void d() {
+		System.out.println("hello");
+	}
+}
 
 public class AccessDemo1 {
 
@@ -18,9 +23,7 @@ public class AccessDemo1 {
 		// TODO Auto-generated method stub
 		A a = new A();
 		System.out.println(a.y());
-		System.out.println(a.z());
-		System.out.println(a.x());
-		
+//		System.out.println(a.z());
+		System.out.println(a.x());	
 	}
-
 }
