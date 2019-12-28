@@ -43,5 +43,4 @@ public class CalculatorDemo {
 			e.stateleftright();
 		}
 	}
-	
 }
