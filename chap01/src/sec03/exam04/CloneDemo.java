@@ -16,7 +16,7 @@ public class CloneDemo {
 		// TODO Auto-generated method stub
 		student st1 = new student("byun");
 		try{student st2 = (student)st1.clone();
-			System.out.println(st2.name);
+			System.out.println(st2.name) ;
 		}catch(CloneNotSupportedException e) {
 		e.printStackTrace();
 		}
