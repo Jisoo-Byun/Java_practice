@@ -26,6 +26,6 @@ public class HashsetDemo {
 		}
 	}
 	static void iteratorUsingForEach(HashMap map) {
-		Set<Map.Entry<K, V>>
+		
 	}
 }
